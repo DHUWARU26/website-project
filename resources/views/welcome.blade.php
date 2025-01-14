@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="og:title" property="og:title" content="Beautiful Home Spaces">
+    <meta name="og:title" property="og:title" content="Archi Designs">
     <link rel="canonical" href="">
     
-    <title>Dhuwark</title>
+    <title>Archi Designs</title>
     <link rel="stylesheet" href="css/style.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
@@ -41,7 +41,7 @@
             <div id="menuopen" class="nav-menu"><i class="fa-solid fa-bars"></i></div>
             <div class="nav-logo"><a href="/"><img src="images/arc.jpeg" alt="lOGO" width="100%" height="100%"></a></div>
             <div class="brand">
-                <div class="brand-name"><a href="/">ArchiDesigns</a></div>
+                <div class="brand-name"><a href="/">Archi Designs</a></div>
             </div>
         </div>
 
