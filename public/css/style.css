@@ -355,19 +355,23 @@ p {
     height: 150px;
 }
 .steps .step1 { 
-    background-color: #FFEEF2;
+    background-color: hsl(131.82deg 33.86% 76.19%);
 }
 
 .steps .step2 {
-    background-color:#FFE4F3 ;
+    background-color: hsl(131.82deg 33.86% 76.19%);
 }
 
 .steps .step3 {
-    background-color: #FFC8FB;
+    background-color: hsl(131.82deg 33.86% 76.19%);
 }
 
 .steps .step4 {
-    background-color: #FF92C2;
+    background-color:hsl(131.82deg 33.86% 76.19%);
+}
+
+.steps .step5 {
+  background-color:hsl(131.82deg 33.86% 76.19%);
 }
 .steps p{
     text-align: center;
@@ -492,8 +496,8 @@ p {
 
 .main .row .image img{
     border-radius: 5px;
-    width:300px;
-    height:180px;
+    width:331px;
+    height:214px;
 }
 .main h3{
     margin:10px 0;
@@ -632,7 +636,7 @@ p {
     justify-content: center;
     align-items: center;
     position: fixed;
-    bottom: 55px;
+    bottom: 99px;
     right:5px;
 }
 
@@ -654,12 +658,14 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50px;
+    height: 68px;
     background-color: white;
     border-radius: 10px;
     margin-bottom: 20px;
     position: sticky;
     bottom: 0;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
 }
 
 .contact-fixed-phone a {
@@ -680,13 +686,13 @@ p {
     background-color: rgb(253, 218, 225);
 }
 
-.contact-fixed-phone .phone {
+/* .contact-fixed-phone .phone {
     border-right: 2px solid black;
-}
+} */
 
 .contact-fixed-phone i {
     font-size: 28px;
-    margin-right: 5px;
+    margin-right: 8px;
     color: #25d366 ;
 }
 /* #25d366 */
@@ -952,7 +958,7 @@ footer{
     }
 
     .main .row > div:nth-child(2){
-        margin-left:30px;
+        margin-left:52px;
     }
 
     .main .row:nth-child(odd){
@@ -9803,7 +9809,7 @@ footer{
   }
 
   .list li {
-    font-size: 10px;
+    font-size: 15px;
   }
 }
 
@@ -9863,18 +9869,18 @@ h2{
 }
 
 .content-section{
-  float: left;
+  float: right;
   width: 55%;
 }
 
 .image-section{
-  float: right;
+  float:left;
   width: 40%;
 }
 
 .image-section img{
-  width: 66%;
-  height: 38vh;
+  width: 50%;
+  height: 44vh;
   margin: 30px;
   display: block;
 }
@@ -9893,6 +9899,7 @@ h2{
   font-family: sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  margin-left: 7px;
 }
 
 .content-section .about-content .button{
@@ -9948,9 +9955,10 @@ h2{
 
   .image-section{
     float: none;
-    width: 100%;
+    width: 90%;
     display: block;
-    margin: auto;
+    margin: 50px;
+
   }
 
  
@@ -9985,7 +9993,7 @@ h2{
 
 .about-section{
   width: 100%;
-  min-height:80vh;
+  min-height:69vh;
 }
 
 .about-container{
@@ -10006,9 +10014,9 @@ h2{
 }
 
 .images-section img{
-  width: 66%;
-  height: 38vh;
-  margin: 30px;
+  width: 53%;
+  height: 34vh;
+  margin: 35px;
   display: block;
 }
 
@@ -10026,6 +10034,7 @@ h2{
   font-family: sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  /* margin-left: 32px; */
 }
 
 .content1-section .about-content .button{
@@ -10084,6 +10093,7 @@ h2{
     width: 100%;
     display: block;
     margin: auto;
+    margin-left: 27px;
   }
 
   .content1-section .about-title{
@@ -10225,4 +10235,21 @@ h6.text-primary.font-weight-normal.text-uppercase.mb-3 {
   .testimonials__grid {
     grid-template-columns: repeat(1, 1fr);
   }
+}
+
+
+img.img-fluid {
+  width: 100%;
+  height: 340px;
+}
+h6{
+  font-size: 18px;
+  margin-left: 6px;
+}
+
+
+.about-founder {
+  margin-left: 104px;
+  font-size: 40px;
+  margin-top: 35px;
 }

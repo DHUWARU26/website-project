@@ -39,7 +39,7 @@
     <div class="navbar top">
         <div class="nav-main">
             <div id="menuopen" class="nav-menu"><i class="fa-solid fa-bars"></i></div>
-            <div class="nav-logo"><a href="/"><img src="images/arc.jpeg" alt="lOGO" width="100%" height="100%"></a></div>
+            <div class="nav-logo"><a href="/"><img src="images/logo2.png" alt="lOGO" width="80%" height="100%"></a></div>
             <div class="brand">
                 <div class="brand-name"><a href="/">Archi Designs</a></div>
             </div>
@@ -61,8 +61,7 @@
     <div class="main-background home" id="nav">
         <div class="matter">
             <h1>DESIGN YOUR DREAM</h1>
-            <p>Whether it's a magazine-like dream kitchen or your entire home,<br> enjoy end-to-end solutions from design to installation.</p>
-            <a href="mailto:archidesigns49@gmail.com">Connect mail&nbsp;<i class=" fa fa-envelope"></i></a>
+            <p>Whether it's a magazine-like dream kitchen<br> or your entire home,enjoy end-to-end solutions<br> from design to installation.</p>
             <a href="book.html">Book a Meeting&nbsp;<i class="fa-sharp fa-solid fa-meeting"></i></a>
 
         </div>
@@ -461,18 +460,29 @@
         <div>
 
             <div class="step3">
-                <div class="image"><img src="images/steps/step3.png" alt="Step3"></div>
-                <p>Take Rest...</p>
+                <div class="image"><img src="images/dd1.png" alt="Step3"></div>
+                <p>Designs <br> Phase...</p>
             </div>
             <p>3</p>
+
+          
         </div>
         <div>
             <div class="step4">
                 <div class="image"><img src="images/steps/step4.png" alt="Step4"></div>
-                <p>Your Dream House<br>is Ready</p>
+                <p>Production &<br>Execution</p>
             </div>
             <p>4</p>
         </div>
+
+        <div>
+            <div class="step5">
+                <div class="image"><img src="images/dd2.png" alt="Step4"></div>
+                <p>Your Dream House<br>is Ready</p>
+            </div>
+            <p>5</p>
+        </div>
+        
     </div>
 
 
@@ -484,17 +494,17 @@
 
 
     <div class="connect-with-us">
-        <h3>Can't find What you are looking for?<br>No problem<a href="tel:7708638243"><span>Contact us...</span></a>
+        <h3> What you are looking for?<span></span><br><a href="mailto:archidesings49@gmail.com"><span>ContactUs...</span></a>
         </h3>
     </div>
 
     <div class="contact-fixed-phone">
-        <div class="phone"><a href="tel:7708638243"><i class="fa-sharp fa-solid fa-phone"></i>Phone</a></div>
-        <div class="whatsapp"><a href="https://wa.me/+917708638243" target="_blank"><i
+        <div class="phone"><a href="mailto:archidesigns49@gmail.com"><i class="fa fa-envelope"></i>Mail</a></div>
+        <div class="whatsapp"><a href="https://wa.me/+919902460580" target="_blank"><i
                     class="fa-brands fa-whatsapp"></i>what's App</a></div>
     </div>
 
-    <div class="contact-fixed-ladscape"><a href="https://wa.me/+917708638243" target="_blank"><i
+    <div class="contact-fixed-ladscape"><a href="https://wa.me/+919902460580" target="_blank"><i
                 class="fa-brands fa-square-whatsapp"></i></a>
     </div>
 
@@ -502,9 +512,9 @@
         <div class="footer">
             <div class="section">
                 <h3>Contact Us</h3>
-                <p>Phone :<a href="tel:7708638243">7708638243</a></p>
+                <p>Phone :<a href="tel:9902460580">9902460580</a></p>
                 <p>Email :<a href="mailto:archidesigns49@gmail.com">archidesgins49@gmail.com</a></p>
-                <p><a href="https://wa.me/+917708638243" target="_blank">What's App</a></p>
+                <p><a href="https://wa.me/+919902460580" target="_blank">What's App</a></p>
             </div>
             <div class="section">
                 <h3>Our Services</h3>
@@ -520,10 +530,10 @@
             <div class="section">
                 <h3>Connect With Us</h3>
                 <span>
-                    <a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="https://instagram.com/beautifulhomespaces?igshid=MzRlODBiNWFlZA==" target="_blank"><i
+                    <a href="https://www.facebook.com/ravichandran.bvr.7" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/ravichandran094rv/" target="_blank"><i
                             class="fa-brands fa-instagram"></i></a>
-                    <a href="https://wa.me/+917708638243" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="https://wa.me/+919902460580" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
                 </span>
             </div>
         </div>
