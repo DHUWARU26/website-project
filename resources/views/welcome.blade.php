@@ -446,7 +446,7 @@
         <div>
             <div class="step1">
                 <div class="image"><img src="images/steps/step1.png" alt="Step1"></div>
-                <p><a href="tel:8870857779">Connect with<br>US<i class="fa-sharp fa-solid fa-phone"></i></a></p>
+                <p><a href="tel:8870857779">Connect with<br>US</p>
             </div>
             <p>1</p>
         </div>
